@@ -1,0 +1,9 @@
+Var():-
+        The var() function is used to insert the value of a CSS variable.
+       
+        A good way to use CSS variables is when it comes to the colors of our design. instead of copy and paste the same colors over and over again, we can place them in variables.
+
+Purpose of var() Function:-
+(1)- Reusability:- Css variables allow us to store values that we can reuse across our stylesheet.
+
+(2)- Global variable:- It can be accessed/ used through the entire document, while local variables can be used only inside the selector where it is declared.
